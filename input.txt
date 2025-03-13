@@ -1,0 +1,5 @@
+X + V
+X - V
+XX - I
+X - II
+X - X
